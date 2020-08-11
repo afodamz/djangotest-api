@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
 
     'posts',
-    'userlogin'
 ]
 
 SITE_ID = 1
